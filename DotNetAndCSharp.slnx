@@ -1,0 +1,117 @@
+<Solution>
+  <Folder Name="/01. .NET 9 Runtime - Feature Switches with Trimming/">
+    <Project Path="DotNet9.FeatureSwitchesAndTrimming/DotNet9.FeatureSwitchesAndTrimming.csproj" />
+  </Folder>
+  <Folder Name="/10. .NET 9 Libraries - Base64Url/">
+    <Project Path="DotNet9.Base64Url/DotNet9.Base64Url.csproj" />
+  </Folder>
+  <Folder Name="/11. .NET 9 Libraries - System.Linq Additions/">
+    <Project Path="DotNet9.LinqAdditions/DotNet9.LinqAdditions.csproj" />
+  </Folder>
+  <Folder Name="/12. .NET 9 Libraries - Generic OrderedDictionary/">
+    <Project Path="DotNet9.GenericOrderedDictionary/DotNet9.GenericOrderedDictionary.csproj" />
+  </Folder>
+  <Folder Name="/13. .NET 9 Libraries - PriorityQueue Remove/">
+    <Project Path="DotNet9.PriorityQueueRemove/DotNet9.PriorityQueueRemove.csproj" />
+  </Folder>
+  <Folder Name="/14. .NET 9 Libraries - ReadOnlySet/">
+    <Project Path="DotNet9.ReadOnlySet/DotNet9.ReadOnlySet.csproj" />
+  </Folder>
+  <Folder Name="/15. .NET 9 Libraries - System.Text.Json Additions/">
+    <Project Path="DotNet9.JsonAdditions/DotNet9.JsonAdditions.csproj" />
+  </Folder>
+  <Folder Name="/16. .NET 9 Libraries - TimeSpan From Overloads/">
+    <Project Path="DotNet9.TimeSpanFromOverloads/DotNet9.TimeSpanFromOverloads.csproj" />
+  </Folder>
+  <Folder Name="/17. .NET 9 Libraries - Task WhenEach/">
+    <Project Path="DotNet9.TaskWhenEach/DotNet9.TaskWhenEach.csproj" />
+  </Folder>
+  <Folder Name="/18. .NET 9 Libraries - Compression Options/">
+    <Project Path="DotNet9.CompressionOptions/DotNet9.CompressionOptions.csproj" />
+  </Folder>
+  <Folder Name="/19. .NET 9 Libraries - BinaryFormatter Removal/">
+    <Project Path="DotNet9.BinaryFormatterRemovel/DotNet9.BinaryFormatterRemovel.csproj" />
+  </Folder>
+  <Folder Name="/20. .NET 9 Libraries - SearchValues Expansion/">
+    <Project Path="DotNet9.SearchValuesExpansion/DotNet9.SearchValuesExpansion.csproj" />
+  </Folder>
+  <Folder Name="/21. .NET 9 Libraries - GeneratedRegEx on Properties/">
+    <Project Path="DotNet9.GeneratedRegExOnProperties/DotNet9.GeneratedRegExOnProperties.csproj" />
+  </Folder>
+  <Folder Name="/22. .NET 9 Libraries - RegEx EnumerateSplits/">
+    <Project Path="DotNet9.RegExEnumerateSplits/DotNet9.RegExEnumerateSplits.csproj" />
+  </Folder>
+  <Folder Name="/23. .NET 9 Libraries - System.Security.Cryptography Additions/">
+    <Project Path="DotNet9.CryptographyAdditions/DotNet9.CryptographyAdditions.csproj" />
+  </Folder>
+  <Folder Name="/24. .NET 9 Libraries - Guid CreateVersion7/">
+    <Project Path="DotNet9.GuidCreateVersion7/DotNet9.GuidCreateVersion7.csproj" />
+  </Folder>
+  <Folder Name="/25. .NET 9 Libraries - ActivatorUtilities.CreateInstance Fix/">
+    <Project Path="DotNet9.ActivatorUtilitiesCreateInstanceFix/DotNet9.ActivatorUtilitiesCreateInstanceFix.csproj" />
+  </Folder>
+  <Folder Name="/26. .NET 9 Libraries - Debug.Assert Reports/">
+    <Project Path="DotNet9.DebugAssertReports/DotNet9.DebugAssertReports.csproj" />
+  </Folder>
+  <Folder Name="/27. .NET 9 Libraries - TarEntry DataOffset/">
+    <Project Path="DotNet9.TarEntryDataOffset/DotNet9.TarEntryDataOffset.csproj" />
+  </Folder>
+  <Folder Name="/40. .NET 9 SDK - Debugging for Dictionaries/">
+    <Project Path="DotNet9.DebuggingDictionaries/DotNet9.DebuggingDictionaries.csproj" />
+  </Folder>
+  <Folder Name="/50. ASP.NET Core 9 - Improved Debugging Support/">
+    <Project Path="AspNetCore9.ImprovedDebuggingSupport/AspNetCore9.ImprovedDebuggingSupport.csproj" />
+  </Folder>
+  <Folder Name="/51. ASP.NET Core 9 - SignalR/">
+    <Project Path="AspNetCore9.SignalrPolymorfism.Client/AspNetCore9.SignalrPolymorfism.Client.csproj" />
+    <Project Path="AspNetCore9.SignalrPolymorfism/AspNetCore9.SignalrPolymorfism.csproj" />
+  </Folder>
+  <Folder Name="/52. ASP.NET Core 9 - Blazor Component Constructor Injection/">
+    <Project Path="AspNetCore9.BlazorComponentConstructorInjection/AspNetCore9.BlazorComponentConstructorInjection.csproj" />
+  </Folder>
+  <Folder Name="/53. ASP.NET Core 9 - Blazor WebSocket Compression/">
+    <Project Path="AspNetCore9.BlazorWebSocketCompression/AspNetCore9.BlazorWebSocketCompression.csproj" />
+  </Folder>
+  <Folder Name="/54. ASP.NET Core 9 - Developer Exception Page/">
+    <Project Path="AspNetCore9.DeveloperExceptionPage/AspNetCore9.DeveloperExceptionPage.csproj" />
+  </Folder>
+  <Folder Name="/55. ASP.NET Core 9 - InternalServerError TypedResults/">
+    <Project Path="AspNetCore9.InternalServerErrorTypedResults/AspNetCore9.InternalServerErrorTypedResults.csproj" />
+  </Folder>
+  <Folder Name="/56. ASP.NET Core 9 - Keyed DI in Middleware/">
+    <Project Path="AspNetCore9.KeyedDIInMiddleware/AspNetCore9.KeyedDIInMiddleware.csproj" />
+  </Folder>
+  <Folder Name="/80. C# 13 - Params Collections/">
+    <Project Path="CSharp13.ParamsCollections/CSharp13.ParamsCollections.csproj" />
+  </Folder>
+  <Folder Name="/81. C# 13 - Overload Resolution Priority/">
+    <Project Path="CSharp13.OverloadResolutionPriority/CSharp13.OverloadResolutionPriority.csproj" />
+  </Folder>
+  <Folder Name="/82. C# 13 - New Lock Object/">
+    <Project Path="CSharp13.NewLockObject/CSharp13.NewLockObject.csproj" />
+  </Folder>
+  <Folder Name="/83. C# 13 - New Escape Sequence/">
+    <Project Path="CSharp13.NewEscapeSequence/CSharp13.NewEscapeSequence.csproj" />
+  </Folder>
+  <Folder Name="/84. C# 13 - Implicit Index Access/">
+    <Project Path="CSharp13.ImplicitIndexAccess/CSharp13.ImplicitIndexAccess.csproj" />
+  </Folder>
+  <Folder Name="/85. C# 13 - More Partial Members/">
+    <Project Path="CSharp13.MorePartialMembers/CSharp13.MorePartialMembers.csproj" />
+  </Folder>
+  <Folder Name="/86. C# 13 - ref and unsafe in Iterators and Async methods/">
+    <Project Path="CSharp13.RefAndUnsafeInIteratorsAndAsync/CSharp13.RefAndUnsafeInIteratorsAndAsync.csproj" />
+  </Folder>
+  <Folder Name="/87. C# 13 - ref struct Interfaces/">
+    <Project Path="CSharp13.RefStructInterfaces/CSharp13.RefStructInterfaces.csproj" />
+  </Folder>
+  <Folder Name="/88. C# 13 - ref struct Type Arguments/">
+    <Project Path="CSharp13.RefStructTypeArguments/CSharp13.RefStructTypeArguments.csproj" />
+  </Folder>
+  <Folder Name="/90. C# 14 - field keyword/">
+    <Project Path="CSharp14.FieldKeyword/CSharp14.FieldKeyword.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="sources.txt" />
+  </Folder>
+</Solution>

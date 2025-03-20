@@ -7,7 +7,7 @@ Console.WriteLine(new Person
 
 Console.WriteLine(new NewsItem
 {
-    Title = "C# 13.0 is out!"
+    Title = "C# 14.0 is out!"
 });
 
 Console.ReadKey();
